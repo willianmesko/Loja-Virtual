@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pagseguro/pagseguro-php-sdk": "^3.3",
+        "mercadopago/sdk": "0.5.2",
+        "paypal/rest-api-sdk-php": "*"
+    }
+}
